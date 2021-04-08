@@ -1,4 +1,4 @@
-# twitter-bot-apiv2
+# twitter-bot
 Belirlenen hashtag'leri retweet yapan ve favoriye ekleyen nodejs uygulaması (Twitter API v2)
 
 ## Installation
