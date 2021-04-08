@@ -13,5 +13,8 @@ Enter your required api keys in the config.js file
 ## Usage
 
 ```bash
+
+start application with command line (node bot.js)
+or
 run start.bat
 ```
